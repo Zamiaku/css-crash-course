@@ -1,0 +1,8 @@
+div {
+    width: 100%;
+    max-width: 200px;
+    height: 50vh;
+
+    background-color: blue;
+    color: rgb(10, 10, 10);
+}
