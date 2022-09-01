@@ -1,18 +1,4 @@
-section {
-  height: 80vh;
-  border: 1px solid black;
+div:hover {
+   background-color: rgba (0, 0, 0, 0.5);
 }
-
-p {
-    color: blue;
-}
-
-}
-
-#title {
-    color: black;
-}
-
-#title.heading.red {
-    color: blue;
-}
+  
