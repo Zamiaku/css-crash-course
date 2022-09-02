@@ -1,4 +1,7 @@
-div:hover {
-   background-color: rgba (0, 0, 0, 0.5);
+.nav__link {
+    columns: black;
 }
-  
+.nav__link--active {
+    color: purple;
+    font-weight: bold;
+}
